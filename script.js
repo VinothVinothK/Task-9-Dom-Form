@@ -8,6 +8,7 @@ let foodSelect = document.getElementById("food-select");
 let State = document.getElementById("State");
 let Country = document.getElementById("Country");
 let Save = document.getElementById("Save");
+
 console.log(gender.value);
 let FirstnameData = document.getElementById("Firstname-data");
 let LastnameData = document.getElementById("Lastname-data");
